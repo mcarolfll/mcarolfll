@@ -1,12 +1,22 @@
-<h2 align="left">Olá! me chamo Maria Carolina</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=120&section=header"/>
+
+<h2 align="left">Olá! Me chamo Maria Carolina</h2>
 
 ###
 
-<p align="left">Estudante de Técnico em Análise e Desenvolvimento de Sistemas (2º ano)<br><br> 💻 Conhecimentos iniciais em Programação & Design<br> 🖥️ Linguagens e tecnologias: PHP, Java, MySQL<br> 🌱 Buscando expandir minhas competências técnicas<br> 🤝 Interessada em construir uma rede de contatos na área de tecnologia</p>
+<p align="left">
+Estudante de Técnico em Análise e Desenvolvimento de Sistemas (2º ano)<br><br> 
+💻 Conhecimentos iniciais em Programação & Design<br> 
+🖥️ Linguagens e tecnologias: PHP, Java, MySQL<br> 
+🌱 Buscando expandir minhas competências técnicas<br> 
+🤝 Interessada em construir uma rede de contatos na área de tecnologia
+</p>
 
 ###
 
-<h4 align="left">Desenvolvo projetos que combinam backend e design de interfaces, utilizando ferramentas como Figma para planejar e prototipar experiências digitais. Meu objetivo é aliar conhecimento técnico e visão criativa para resolver problemas de forma eficaz, expandir meu aprendizado e construir conexões valiosas na área de tecnologia.</h4>
+<h4 align="left">
+Desenvolvo projetos que combinam backend e design de interfaces, utilizando ferramentas como Figma para planejar e prototipar experiências digitais. Meu objetivo é aliar conhecimento técnico e visão criativa para resolver problemas de forma eficaz, expandir meu aprendizado e construir conexões valiosas na área de tecnologia.
+</h4>
 
 ###
 
@@ -46,3 +56,5 @@
 </div>
 
 ###
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=120&section=footer"/>
