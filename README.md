@@ -7,7 +7,6 @@
 <p align="left">
 Estudante de Técnico em Análise e Desenvolvimento de Sistemas (2º ano)<br><br> 
 💻 Conhecimentos iniciais em Programação & Design<br> 
-🖥️ Linguagens e tecnologias: PHP, Java, MySQL<br> 
 🌱 Buscando expandir minhas competências técnicas<br> 
 🤝 Interessada em construir uma rede de contatos na área de tecnologia
 </p>
