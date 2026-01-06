@@ -37,8 +37,10 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcarolfll&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mcarolfll&show_icons=true&theme=dracula&locale=pt-br" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcarolfll&layout=compact&theme=dracula&locale=pt-br" height="150" />
 </div>
+
 
 ###
 
