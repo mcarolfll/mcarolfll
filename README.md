@@ -43,12 +43,14 @@ Desenvolvimento de aplicações web, integração entre backend e interface, boa
 
 ---
 
-📬 **Vamos Conectar?**
+📬 **Vamos Conectar?** Interessada em networking, aprendizado colaborativo e oportunidades na área de tecnologia. Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mcarolinafranco/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+---
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/mcarolinafranco/" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> 
+</a> 
 </div>
 
 ---
