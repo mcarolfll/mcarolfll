@@ -36,11 +36,6 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
 ###
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mcarolfll&show_icons=true&theme=dracula&locale=pt-br" height="150" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcarolfll&layout=compact&theme=dracula&locale=pt-br" height="150" /> 
-</div>
-
 
 <div align="center">
   <a href="https://www.instagram.com/mcarolinafll/?next=%2F" target="_blank">
