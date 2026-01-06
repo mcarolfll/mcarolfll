@@ -1,21 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=120&section=header"/>
 
-<h2 align="left">Olá! Me chamo Maria Carolina</h2>
-
-###
+<h2 align="left">Olá! Sou Maria Carolina 👋</h2>
 
 <p align="left">
-Estudante de Técnico em Análise e Desenvolvimento de Sistemas (2º ano)<br><br> 
-💻 Conhecimentos iniciais em Programação & Design<br> 
-🌱 Buscando expandir minhas competências técnicas<br> 
-🤝 Interessada em construir uma rede de contatos na área de tecnologia
+Desenvolvedora de Software | Gestão de Projetos<br>
+Java • PHP • JavaScript • HTML • CSS • SQL • UI/UX • Inovação
 </p>
 
-###
+<p align="left">
+Estudante do curso Técnico em Análise e Desenvolvimento de Sistemas (3º ano), com foco no desenvolvimento de soluções que integram backend e design de interfaces. Utilizo ferramentas como Figma para planejamento e prototipação, buscando unir visão criativa e conhecimento técnico na resolução de problemas.
+</p>
 
-<h4 align="left">
-Desenvolvo projetos que combinam backend e design de interfaces, utilizando ferramentas como Figma para planejar e prototipar experiências digitais. Meu objetivo é aliar conhecimento técnico e visão criativa para resolver problemas de forma eficaz, expandir meu aprendizado e construir conexões valiosas na área de tecnologia.
-</h4>
+<p align="left">
+Comprometida com o aprendizado contínuo, desenvolvimento de habilidades técnicas e interpessoais, e interessada em construir uma rede de contatos sólida, visando futuras oportunidades profissionais na área de tecnologia.
+</p>
 
 ###
 
