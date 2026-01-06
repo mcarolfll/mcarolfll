@@ -37,7 +37,7 @@ Desenvolvimento de aplicações web, integração entre backend e interface, boa
 
 📬 **Vamos Conectar?** Interessada em networking, aprendizado colaborativo e oportunidades na área de tecnologia. Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
----
+
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/mcarolinafranco/" target="_blank"> 
@@ -45,6 +45,6 @@ Desenvolvimento de aplicações web, integração entre backend e interface, boa
 </a> 
 </div>
 
----
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=120&section=footer"/>
