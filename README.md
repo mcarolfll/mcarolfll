@@ -36,17 +36,10 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
 ###
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mcarolfll&show_icons=true&theme=dracula&locale=pt-br&hide_border=true"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mcarolfll&layout=compact&theme=dracula&locale=pt-br&hide_border=true"
-    height="150"
-  />
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mcarolfll&show_icons=true&theme=dracula&locale=pt-br" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcarolfll&layout=compact&theme=dracula&locale=pt-br" height="150" /> 
 </div>
-###
 
 
 <div align="center">
