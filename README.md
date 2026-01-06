@@ -1,19 +1,38 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=120&section=header"/>
 
-<h2 align="left">Olá! Sou Maria Carolina 👋</h2>
+👋 Olá! Me chamo Maria Carolina  
 
-<p align="left">
-Desenvolvedora de Software | Gestão de Projetos<br>
-Java • PHP • JavaScript • HTML • CSS • SQL • UI/UX • Inovação
-</p>
+🚀 Desenvolvedora de Software | Full Stack em formação | UI/UX & Inovação  
 
-<p align="left">
-Estudante do curso Técnico em Análise e Desenvolvimento de Sistemas (3º ano), com foco no desenvolvimento de soluções que integram backend e design de interfaces. Utilizo ferramentas como Figma para planejamento e prototipação, buscando unir visão criativa e conhecimento técnico na resolução de problemas.
-</p>
+Bem-vinda(o) ao meu GitHub! Sou estudante do curso Técnico em Análise e Desenvolvimento de Sistemas (3º ano) e desenvolvo projetos que integram backend e design de interfaces. Tenho interesse em criar soluções digitais que aliem tecnologia, usabilidade e criatividade, utilizando ferramentas como Figma para planejar e prototipar experiências eficientes. Busco evoluir continuamente como desenvolvedora e criar soluções com impacto real.
 
-<p align="left">
-Comprometida com o aprendizado contínuo, desenvolvimento de habilidades técnicas e interpessoais, e interessada em construir uma rede de contatos sólida, visando futuras oportunidades profissionais na área de tecnologia.
-</p>
+---
+
+🛠️ **Stacks & Tecnologias**
+
+**Frontend**  
+HTML • CSS • JavaScript  
+
+**Backend**  
+Java • PHP • SQL  
+
+**UI/UX & Design**  
+Figma • Prototipação • Design de Interfaces  
+
+**Ferramentas**  
+Git • VS Code  
+
+---
+
+🎯 **Áreas de Foco**  
+Desenvolvimento de aplicações web, integração entre backend e interface, boas práticas de usabilidade, aprendizado contínuo e inovação aplicada à tecnologia.
+
+---
+
+📬 **Vamos Conectar?**  
+Interessada em networking, aprendizado colaborativo e oportunidades na área de tecnologia.  
+Sinta-se à vontade para explorar meus projetos e entrar em contato!
+
 
 ###
 
