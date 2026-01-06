@@ -37,9 +37,16 @@ Desenvolvimento de aplicações web, integração entre backend e interface, boa
 📊 **Estatísticas do GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcarolfll&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcarolfll&layout=compact&theme=dracula&hide_border=true" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mcarolfll&show_icons=true&theme=dracula&hide_border=true" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarolfll&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
+    height="150"
+  />
 </div>
+
 
 ---
 
