@@ -44,20 +44,7 @@ Desenvolvimento de aplicações web, integração entre backend e interface, boa
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> 
 </a> 
 
-  <div align="center"> 
-<div align="center">
-  <a href="https://mcarolfll.vercel.app/#home" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/icone.png" 
-      width="50" 
-      alt="Avatar"
-      style="vertical-align: middle; border-radius: 50%;"
-    />
-    <span style="font-size: 20px; font-weight: 600; margin-left: 10px; vertical-align: middle;">
-      Carol Franco
-    </span>
-  </a>
-</div>
+
 </div>
 
 </div>
