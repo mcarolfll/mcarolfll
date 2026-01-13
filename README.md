@@ -45,13 +45,19 @@ Desenvolvimento de aplicações web, integração entre backend e interface, boa
 </a> 
 
   <div align="center"> 
-  <a href="https://mcarolfll.vercel.app/#home" target="_blank"> 
+<div align="center">
+  <a href="https://mcarolfll.vercel.app/#home" target="_blank" style="text-decoration: none;">
     <img 
-      src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" 
-      height="35" 
-      alt="portfolio logo" 
-    /> 
-  </a> 
+      src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/icone.png" 
+      width="50" 
+      alt="Avatar"
+      style="vertical-align: middle; border-radius: 50%;"
+    />
+    <span style="font-size: 20px; font-weight: 600; margin-left: 10px; vertical-align: middle;">
+      Carol Franco
+    </span>
+  </a>
+</div>
 </div>
 
 </div>
