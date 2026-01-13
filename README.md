@@ -43,6 +43,17 @@ Desenvolvimento de aplicações web, integração entre backend e interface, boa
   <a href="https://www.linkedin.com/in/mcarolinafranco/" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> 
 </a> 
+
+  <div align="center"> 
+  <a href="https://mcarolfll.vercel.app/#home" target="_blank"> 
+    <img 
+      src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" 
+      height="35" 
+      alt="portfolio logo" 
+    /> 
+  </a> 
+</div>
+
 </div>
 
 
