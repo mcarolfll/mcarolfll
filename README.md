@@ -1,26 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=140&section=header&text=Maria%20Carolina&fontSize=40&fontColor=fff&fontAlignY=65&desc=Full%20Stack%20Developer%20in%20progress%20✨&descAlignY=85&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=140&section=header&text=Maria%20Carolina&fontSize=40&fontColor=fff&fontAlignY=65&desc=Full%20Stack%20Developer%20&descAlignY=85&descSize=16"/>
 
 <br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FA418C&center=true&vCenter=true&width=600&lines=Olá!+Me+chamo+Maria+Carolina+👋;Desenvolvedora+Full+Stack+em+formação+🚀;UI%2FUX+%26+Inovação+🎨;Sempre+aprendendo+e+evoluindo+📚" alt="Typing SVG" />
 </p>
-
-<br/>
 
 ---
 
-## 🙋‍♀️ Sobre mim
+## Sobre mim
 
-```ts
-const mariaCarolina = {
-  curso:       "Técnico em Análise e Desenvolvimento de Sistemas",
-  foco:        ["Full Stack", "UI/UX", "Inovação"],
-  objetivo:    "Criar experiências digitais com impacto real",
-  ferramentas: ["Figma", "VS Code", "Git"],
-  missao:      "Unir tecnologia, usabilidade e criatividade 💜",
-};
-```
+🎓 Cursando **Técnico em Análise e Desenvolvimento de Sistemas**
+💼 Foco em **Software Developer & UI/UX Designer**
+🎯 Objetivo: Criar experiências digitais com impacto real
+💜 Missão: Unir tecnologia, usabilidade e criatividade
 
 > Bem-vinda(o) ao meu GitHub! Sou estudante com foco em desenvolver soluções que integram backend e design de interfaces. Busco evoluir continuamente e criar produtos com propósito real.
 
@@ -45,21 +35,6 @@ const mariaCarolina = {
 **Ferramentas**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mcarolfll&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarolfll&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcarolfll&theme=rose_pine&hide_border=true&background=0d1117&ring=FA418C&fire=FA418C&currStreakLabel=FA418C" alt="streak"/>
-</p>
 
 <br/>
 
@@ -92,10 +67,6 @@ const mariaCarolina = {
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mcarolfll&color=FA418C&style=for-the-badge&label=Visitas"/>
-</p>
 
 <br/>
 
