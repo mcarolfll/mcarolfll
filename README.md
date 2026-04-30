@@ -32,7 +32,7 @@ const mariaCarolina = {
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite)](https://skillicons.dev)
 
 **Backend & Banco de Dados**
 
