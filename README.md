@@ -5,7 +5,7 @@
 
 ---
 
-## 🙋‍♀️ Sobre mim
+## Sobre mim
  
 🎓 Cursando **Técnico em Análise e Desenvolvimento de Sistemas**  
 💼 Foco em **Software Developer & UI/UX Designer**  
