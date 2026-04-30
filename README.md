@@ -5,15 +5,15 @@
 
 ---
 
-## Sobre mim
-
-🎓 Cursando **Técnico em Análise e Desenvolvimento de Sistemas**
-💼 Foco em **Software Developer & UI/UX Designer**
-🎯 Objetivo: Criar experiências digitais com impacto real
+## 🙋‍♀️ Sobre mim
+ 
+🎓 Cursando **Técnico em Análise e Desenvolvimento de Sistemas**  
+💼 Foco em **Software Developer & UI/UX Designer**  
+🎯 Objetivo: Criar experiências digitais com impacto real  
 💜 Missão: Unir tecnologia, usabilidade e criatividade
-
-> Bem-vinda(o) ao meu GitHub! Sou estudante com foco em desenvolver soluções que integram backend e design de interfaces. Busco evoluir continuamente e criar produtos com propósito real.
-
+ 
+Bem-vinda(o) ao meu GitHub! Sou estudante com foco em desenvolver soluções que integram backend e design de interfaces. Busco evoluir continuamente e criar produtos com propósito real.
+ 
 <br/>
 
 ---
