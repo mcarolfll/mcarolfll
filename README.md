@@ -1,54 +1,102 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=140&section=header&text=Maria%20Carolina&fontSize=40&fontColor=fff&fontAlignY=65&desc=Full%20Stack%20Developer%20in%20progress%20✨&descAlignY=85&descSize=16"/>
 
-👋 Olá! Me chamo **Maria Carolina**  
+<br/>
 
-🚀 **Desenvolvedora de Software | Full Stack em formação | UI/UX & Inovação**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FA418C&center=true&vCenter=true&width=600&lines=Olá!+Me+chamo+Maria+Carolina+👋;Desenvolvedora+Full+Stack+em+formação+🚀;UI%2FUX+%26+Inovação+🎨;Sempre+aprendendo+e+evoluindo+📚" alt="Typing SVG" />
+</p>
 
-Bem-vinda(o) ao meu GitHub! Sou estudante do curso Técnico em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de soluções que integram backend e design de interfaces. Tenho interesse em criar experiências digitais que unam tecnologia, usabilidade e criatividade, utilizando ferramentas como Figma para planejamento e prototipação. Busco evoluir continuamente como desenvolvedora e criar soluções com impacto real.
-
----
-
-🛠️ **Stacks & Tecnologias**
-
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-
-**UI/UX & Design**  
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat&logo=figma&logoColor=white)
-
-**Ferramentas**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<br/>
 
 ---
 
-🎯 **Áreas de Foco**  
-Desenvolvimento de aplicações web, integração entre backend e interface, boas práticas de usabilidade, aprendizado contínuo e inovação aplicada à tecnologia.
+## 🙋‍♀️ Sobre mim
+
+```ts
+const mariaCarolina = {
+  curso:       "Técnico em Análise e Desenvolvimento de Sistemas",
+  foco:        ["Full Stack", "UI/UX", "Inovação"],
+  objetivo:    "Criar experiências digitais com impacto real",
+  ferramentas: ["Figma", "VS Code", "Git"],
+  missao:      "Unir tecnologia, usabilidade e criatividade 💜",
+};
+```
+
+> Bem-vinda(o) ao meu GitHub! Sou estudante com foco em desenvolver soluções que integram backend e design de interfaces. Busco evoluir continuamente e criar produtos com propósito real.
+
+<br/>
 
 ---
 
+## 🛠️ Stacks & Tecnologias
 
-📬 **Vamos Conectar?** Interessada em networking, aprendizado colaborativo e oportunidades na área de tecnologia. Sinta-se à vontade para explorar meus projetos e entrar em contato!
+**Frontend**
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite)](https://skillicons.dev)
 
+**Backend & Banco de Dados**
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/mcarolinafranco/" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> 
-</a> 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,php,mysql)](https://skillicons.dev)
 
+**UI/UX & Design**
 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-</div>
+**Ferramentas**
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mcarolfll&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarolfll&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcarolfll&theme=rose_pine&hide_border=true&background=0d1117&ring=FA418C&fire=FA418C&currStreakLabel=FA418C" alt="streak"/>
+</p>
+
+<br/>
+
+---
+
+## 🎯 Áreas de Foco
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-FA418C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B9D?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Boas%20Práticas-C2185B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inovação%20Tech-AD1457?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br/>
+
+---
+
+## 📬 Vamos Conectar?
+
+<p align="center">Interessada em networking, aprendizado colaborativo e oportunidades na área de tecnologia.<br/>Sinta-se à vontade para explorar meus projetos e entrar em contato! 🤝</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mcarolinafranco/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://github.com/mcarolfll" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mcarolfll&color=FA418C&style=for-the-badge&label=Visitas"/>
+</p>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=120&section=footer"/>
